@@ -1,0 +1,24 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Fazer compras",
+      "completed": true
+    },
+    {
+      "id": 2,
+      "title": "Estudar para o exame",
+      "completed": true
+    },
+    {
+      "id": 3,
+      "title": "Preparar apresentação",
+      "completed": false
+    },
+    {
+      "title": "nova",
+      "completed": false,
+      "id": 4
+    }
+  ]
+}
